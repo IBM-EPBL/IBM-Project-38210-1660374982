@@ -1,0 +1,70 @@
+#container{
+    background-color:#4f89dd;
+    height: 200px;
+    width: 70%;
+    margin: 0px auto;
+   text-align: center;
+   
+}
+.img{
+  padding-left: 10px;
+  padding-top: 70px;
+}
+#container p{
+font-size: 15px;
+color: white;
+
+
+}
+.button1 {
+    background-color:rgb(229, 227, 227); /* Green */
+    border: none;
+    color: rgb(26, 24, 24);;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50%;
+  }
+  .button2 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50%;
+  }
+  #content1 p{
+   
+    height: 30px;
+    width: 20%;
+    
+    
+    padding-left: 200px;
+  
+  }
+  
+
+  
+  #content2 .skills{
+    height: 100px;
+    width:70%;
+    padding:100px;
+  }
+  #content2 .skills h2{
+    padding-left: 100px;
+  }
+  #content3{
+    height: 100px;
+    width:70%;
+    padding-bottom:100px;
+    padding-left:1000 px;
+  }
